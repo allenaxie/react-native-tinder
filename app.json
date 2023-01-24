@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "4df33ad3-9ad6-4117-a333-9fcb11fecf84"
+      }
+    },
+    "owner": "allenaxie"
   }
 }
